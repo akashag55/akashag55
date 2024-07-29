@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashag55&label=Profile%20views&color=0e75b6&style=flat" alt="akashag55" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashag55" alt="akashag55" /></a> </p>
-
 - 🔭 I’m currently working on **a open source project for dev community!**
 
 - 🌱 I’m currently learning **Vue & Flutter**
